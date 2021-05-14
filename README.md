@@ -1,0 +1,2 @@
+# server
+Minecraft Server Wiki
